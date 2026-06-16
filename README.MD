@@ -1,20 +1,21 @@
 # Análisis Liga Española ⚽
 
-Análisis exploratorio de la **Liga Española de Fútbol** entre las temporadas 2011/2012 y 2014/2015, enfocado en rendimiento de equipos y jugadores a partir de datos de partidos, planteles y atributos.
+Análisis exploratorio de la **Liga Española de Fútbol** entre las temporadas 2011/2012 y 2014/2015, enfocado en rendimiento de equipos y jugadores a partir de datos de partidos, planteles y atributos de los jugadores (velocidad, pase, altura, etc).
+
+
 
 ---
 
 ## Estructura del proyecto
 
 ```
-Analisis-liga-espa-ola/
+Análisis-liga-española/
 │
 ├── análisis_tp01.py        # Script principal con consultas y visualizaciones
 │
 ├── imagenes/               # Gráficos generados automáticamente
 │   ├── goles_favor_contra.png
 │   ├── goles_promedios.png
-│   ├── goles_convertidos.png
 │   └── goles_atributos.png
 │
 └── README.md
