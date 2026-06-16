@@ -52,7 +52,7 @@ pip install pandas duckdb numpy matplotlib seaborn
 - **Equipo con más empates en 2015** → RC Deportivo de La Coruña
 - **Equipo con más goles a favor** → Real Madrid CF
 - **Equipo con mayor diferencia de goles** → FC Barcelona
-- **Jugador que perteneció a más equipos** → Tono (4 equipos)
+- **Jugador que perteneció a más equipos** → Toño (4 equipos)
 - **Jugador con menor variación de potencial** → Matias Autret
 
 ---
@@ -63,7 +63,7 @@ pip install pandas duckdb numpy matplotlib seaborn
 
 <img src="imagenes/goles_favor_contra.jpg" width="60%">
 
-La mayoría de los equipos recibió más goles de los que convirtió, lo que sugiere un nivel defensivo general bajo en la liga. Sin embargo, este gráfico no considera que no todos los equipos jugaron la misma cantidad de temporadas, por lo que equipos como SD Eibar aparecen con pocos goles en contra simplemente por haber jugado menos partidos. Al normalizar por temporadas jugadas, el FC Barcelona resulta ser el equipo con menos goles en contra.
+La mayoría de los equipos recibió más goles de los que convirtió, lo que sugiere un nivel defensivo general bajo en la liga. El FC Barcelona resulta ser el equipo con menos goles en contra.
 
 ---
 
@@ -71,7 +71,7 @@ La mayoría de los equipos recibió más goles de los que convirtió, lo que sug
 
 <img src="imagenes/goles_promedios.jpg" width="60%">
 
-El Real Madrid CF y el FC Barcelona tienen un promedio de goles muy superior al resto de los equipos, lo que refleja su superioridad ofensiva sostenida a lo largo de las cuatro temporadas. Esta diferencia es un indicador claro de por qué ambos equipos dominaron la liga en el período analizado.
+El Real Madrid CF y el FC Barcelona tienen un promedio de goles muy superior al resto de los equipos, lo que refleja su superioridad ofensiva. Esta diferencia es un indicador claro de por qué ambos equipos dominaron la liga en el período analizado.
 
 ---
 
@@ -79,7 +79,7 @@ El Real Madrid CF y el FC Barcelona tienen un promedio de goles muy superior al 
 
 <img src="imagenes/goles_convertidos.jpg" width="60%">
 
-Se observa una tendencia lineal positiva entre la suma de atributos de los jugadores de un equipo y los goles convertidos: equipos con mejores jugadores tienden a convertir más goles. Sin embargo, esta relación no es garantía: Atlético Madrid y Valencia CF presentan atributos altos pero un número de goles relativamente bajo. Los outliers claros son Real Madrid CF y FC Barcelona. Al normalizar por temporadas jugadas y cantidad de jugadores, la tendencia se mantiene pero con menor pendiente.
+Se observa una tendencia lineal positiva entre la suma de atributos de los jugadores de un equipo y los goles convertidos: equipos con mejores jugadores tienden a convertir más goles. Sin embargo, esta relación no es garantía: Atlético Madrid y Valencia CF presentan atributos altos pero un número de goles relativamente bajo. Los outliers claros son Real Madrid CF y FC Barcelona.
 
 ---
 
