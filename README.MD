@@ -75,7 +75,7 @@ El Real Madrid CF y el FC Barcelona tienen un promedio de goles muy superior al 
 
 ---
 
-### Diferencia de goles convertidos jugando de local vs visitante
+### Cantidad de goles marcados en función de los atributos de los jugadores (velocidad, pase, etc.)
 
 <img src="imagenes/goles_convertidos.jpg" width="60%">
 
